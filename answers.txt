@@ -10,3 +10,7 @@ Answer: Data science can be used in weather forecasting, like using past weather
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging takes two branches and combines them into a new commit, keeping the full history of both. Rebasing instead takes your changes and replays them on top of the other branch, so it looks like a straight line of commits with no extra merge commit.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Seeing my friends again and hanging out with them.
